@@ -1,0 +1,16 @@
+When you hit the buddy button it dissolves away your tasks. He asks what kind of help you want
+  there should be ~7 or so choices but a random selection should be displayed biasing things that weren't displayed before and popping the last one you picked
+  there should be a more button that allows for any option plus in the settings you can config seeing all, or a select assortment everytime
+
+Options
+  song break
+  have DeM share what he's up to ( little animation with sounds)
+  look around (lil yachty telling you to look at life he's got you) is it fair use if I pull ~20 seconds from an actual music video with filters? Does it matter if all this is FOSS?
+  30 second game like the arrows shooting butterflies out of bubbles
+
+  some pulls from some APIs ( hard to find non cheesy ones but maybe)
+  30 second drawIT
+  switch cassettes
+
+
+
